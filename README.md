@@ -1,5 +1,11 @@
 # React.js App Template
 
+## setup
+
+```
+$ npm install
+```
+
 ## start
 
 ```
