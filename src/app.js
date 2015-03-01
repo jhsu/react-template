@@ -1,5 +1,4 @@
-var Rx     = require('rx'),
-    React  = require('react/addons'),
+var React  = require('react/addons'),
     Router = require('react-router'),
     App    = require('./views/app.jsx'),
     Route  = Router.Route;

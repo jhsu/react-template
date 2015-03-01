@@ -3,7 +3,6 @@ Link = Router.Link,
 RouteHandler = Router.RouteHandler;
 
 var React  = require('react/addons'),
-    RX     = require('rx'),
     $      = require('jquery');
 
 var App = React.createClass({

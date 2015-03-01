@@ -10,7 +10,7 @@ var proxy = httpProxy.createProxyServer();
 
 var compiler = webpack(config);
 
-// var proxyTo = 'http://private-6d690-fitentry.apiary-mock.com';
+// var proxyTo = 'PROXY_URL';
 // app.all('/api/*', function(req, res) {
 //   delete req.headers.host;
 //   req.url = req.url.replace('/api', '/');
